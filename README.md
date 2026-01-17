@@ -1,4 +1,5 @@
 ```java
+//NAME: Alexis Lau
 import java.util.Scanner;
 public class FinalProgrammingProject {
     public static void main(String[] args) {
